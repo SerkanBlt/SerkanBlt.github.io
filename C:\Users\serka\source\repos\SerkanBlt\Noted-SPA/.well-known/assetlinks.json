@@ -1,0 +1,1 @@
+keytool -list -v -keystore "keystore-dosyanizin-yolu" -alias my-key-alias
