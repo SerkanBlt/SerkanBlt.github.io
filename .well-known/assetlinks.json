@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.serkanblt.noted",
+        "sha256_cert_fingerprints": ["BF:31:81:F5:F2:F6:71:FD:1F:32:09:8E:96:04:C9:2B:55:AD:61:C7:C7:06:78:5F:2B:35:36:F7:CF:6E:51:96"]
+      }
+    }]
